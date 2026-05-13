@@ -4,7 +4,7 @@ Olá, pessoal! Parabéns por terem chegado até o final do nosso minicurso de Py
 
 Durante a prática, propusemos alguns desafios para alterar as regras do nosso simulador de batalhas. Na engenharia de software, raramente começamos um código do zero; na maior parte do tempo, precisamos ler um código que já existe, entender sua lógica e adicionar novas funcionalidades.
 
-Abaixo, detalhamos como cada um dos desafios foi resolvido, mostrando onde o código mudou e o porquê de cada escolha. Usem este material para revisar os conceitos de laços de repetição (`while`, `for`), listas, dicionários e condicionais (`if/else`).
+Abaixo, detalhamos como cada um dos desafios foi resolvido por um dos monitores, mostrando onde o código mudou e o porquê de cada escolha. Usem este material para revisar os conceitos de laços de repetição (`while`, `for`), listas, dicionários e condicionais (`if/else`).
 
 ---
 
@@ -169,7 +169,8 @@ Sempre que um ataque acerta, usamos `+=` para adicionar o dano ao jogador corret
 No final da batalha, basta imprimir os valores acumulados.
 
 ---
-
+# 💻 ! Abra o código do monitor e veja as mudanças na íntegra
+---
 # 🎯 Conclusão
 
 Ficou com alguma dúvida sobre as lógicas aplicadas?
